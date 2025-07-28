@@ -1,0 +1,18 @@
+# Python
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+
+# Backend specific
+backend/__pycache__/
+backend/venv/
+
+# OS & IDE
+.DS_Store
+.vscode/
+.idea/
+
+# Environment
+.env
