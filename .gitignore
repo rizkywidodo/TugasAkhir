@@ -14,5 +14,3 @@ backend/venv/
 .vscode/
 .idea/
 
-# Environment
-.env
